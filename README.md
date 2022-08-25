@@ -1,10 +1,11 @@
-# Hey Welcome Buddy 👋
+# Hi there 👋
 
-This is Rohit Madeshiya. Passionate to become a Full Stack Developer.
+I am Hirenkumar Trivedi. Passionate to become a Full Stack Developer.
 
-## Project Name : **Street Style Landing Page !**
+## Project Name : **Portfolio Page !**
 
-In this project i have created a Street Style landing page from scratch. And i have learnt a lot of things like how to use flex and how css makes life easier , we can manipulate the things in Html with the help of CSS without touching HTML file in terms of positing and direction not in terms of DOM manipulation😅 and i have also learnt about positions mainly in this project.
+This is simple portfolio page, it is a part of Javascript web development bootcamp, Created this page with HTML and CSS.
+
 
 </br>
 
@@ -16,8 +17,8 @@ In this project i have created a Street Style landing page from scratch. And i h
 
 ### My Project is looking like :
 
-![Web Site Image](./assets/screencapture-street-style-landing-page-netlify-app-2022-07-31-19_48_54.png)
+![Web Site Image](./assets/p1.png)
 
 ### You can Check it Live on Below Link :
 
-[Live Link !](https://street-style-landing-page.netlify.app/)
+[Deplyoed link!](https://liveclassproject1.netlify.app/)

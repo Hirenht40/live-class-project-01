@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Hirenkumar Trivedi. Passionate to become a Full Stack Developer.
+I am Hirenkumar Trivedi. Passionate to become a Full Stack Web Developer.
 
 ## Project Name : **Portfolio Page !**
 

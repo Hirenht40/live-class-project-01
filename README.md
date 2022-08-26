@@ -17,7 +17,7 @@ This is simple portfolio page, it is a part of Javascript web development bootca
 
 ### My Project is looking like :
 
-![Web Site Image](./assets/p1.png)
+![Web Site Image](./assets/p1.PNG)
 
 ### You can Check it Live on Below Link :
 
